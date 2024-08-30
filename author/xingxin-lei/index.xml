@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xingxin Lei |  </title>
+    <link>/author/xingxin-lei/</link>
+      <atom:link href="/author/xingxin-lei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xingxin Lei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu874825452795402713.png</url>
+      <title>Xingxin Lei</title>
+      <link>/author/xingxin-lei/</link>
+    </image>
+    
+    <item>
+      <title>Research progress of fabrics with diferent geometric structures for triboelectric nanogenerators in flexible and wearable electronics</title>
+      <link>/publication/journal2/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal2/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The quantitative contribution of interfacial coexisting Mn and O vacancies to MnO2 photocatalytic degradation of phenol</title>
+      <link>/publication/journal3/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent advances in the regulation of oxygen vacancies in mno2 nanocatalysts</title>
+      <link>/publication/journal5/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

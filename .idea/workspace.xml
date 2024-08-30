@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ccbf3d7-1c22-4b64-978f-15bae83edb88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/bo-deng/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/bo-deng/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/dali-yan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/dali-yan/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/dali-yan闫大利/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/dali-yan闫大利/avatar_hu12657807790590681460.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/dali-yan闫大利/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/dali-yan闫大利/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/dan-tao/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/dan-tao/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/dengpeng-song/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/dengpeng-song/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/duo-xu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/duo-xu/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/genyang-cao/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/genyang-cao/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/hao-liu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/hao-liu/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/huiyu-yang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/huiyu-yang/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/jian-fang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/jian-fang/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/jian-ye/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/jian-ye/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/jingyi-zhou/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/jingyi-zhou/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/shuai-peng/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/shuai-peng/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/weilin-xu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/weilin-xu/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/xingxin-lei/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/xingxin-lei/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/yahui-zhou/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/yahui-zhou/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/yd-liu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/yd-liu/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/yirong-sun/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/yirong-sun/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/zijian-duan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/zijian-duan/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authors/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authors/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authors/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authors/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authors/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/demo/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/demo/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/教程/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/教程/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/教程/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courses/example/example1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courses/example/example2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courses/example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courses/example/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courses/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courses/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/academic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/cv.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/gallery/gallery/theme-1950s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/gallery/gallery/theme-apogee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/gallery/gallery/theme-coffee-playfair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/gallery/gallery/theme-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/gallery/gallery/theme-default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/gallery/gallery/theme-forest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/gallery/gallery/theme-ocean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/gallery/gallery/theme-strawberry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon_hu216646761142650846.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon_hu5961711817359215181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon_hu8611581399804071279.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_hu10744460471534000915.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_hu13283158782282273778.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_hu874825452795402713.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/academic.min.4182b289689108d47721d002a07cd804.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/load-theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mathjax-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/reveal.js/plugin/notes/notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/reveal.js/plugin/notes/notes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/boards.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/headers/bubbles-wide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/hero-academic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/getting-started/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/getting-started/featured_hu14600799533751856521.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/getting-started/featured_hu44253924179317493.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/getting-started/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/jupyter/featured.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/jupyter/featured_hu16161786913337606166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/jupyter/featured_hu5925778868975482866.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/jupyter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/jupyter/index_1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/writing-technical-content/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/writing-technical-content/featured_hu18360402758448806888.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/writing-technical-content/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/privacy/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/external-project/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/external-project/featured_hu12537402131454239703.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/external-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/internal-project/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/internal-project/featured_hu7460359475236022517.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/internal-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication-type/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication-type/2/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication-type/2/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal1/artical1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal1/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal1/featured_hu14780396403633349113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal1/featured_hu394170002279929710.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal2/artical2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal2/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal2/featured_hu12711613467426671971.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal3/artical3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal3/featured.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal3/featured_hu7741005842036995710.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal4/artical4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal4/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal4/featured_hu17336083705581896502.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal4/featured_hu8032011355887436933.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal5/artical5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal5/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal5/featured_hu16698484845863783909.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/journal5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication_types/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication_types/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication_types/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/academic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/academic/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/academic/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/deep-learning/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/deep-learning/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/deep-learning/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/demo/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/demo/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/source-themes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/source-themes/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/source-themes/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/开源/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/开源/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag/开源/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tags/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tags/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talk/example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talk/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talk/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terms/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2lLTgY9b7hYtZlh0531fBlVpXfV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ccbf3d7-1c22-4b64-978f-15bae83edb88" name="Changes" comment="" />
+      <created>1724958473722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724958473722</updated>
+      <workItem from="1724958473724" duration="6000" />
+    </task>
+    <servers />
+  </component>
+</project>

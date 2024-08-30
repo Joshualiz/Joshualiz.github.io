@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YD Liu* |  </title>
+    <link>/author/yd-liu/</link>
+      <atom:link href="/author/yd-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>YD Liu*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu874825452795402713.png</url>
+      <title>YD Liu*</title>
+      <link>/author/yd-liu/</link>
+    </image>
+    
+    <item>
+      <title>Recent advances in the regulation of oxygen vacancies in mno2 nanocatalysts</title>
+      <link>/publication/journal5/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
